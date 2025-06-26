@@ -1,4 +1,8 @@
-# Deprecation warning: This package was depecrated, in favor of the MDLovoFit interface available in [MolSimToolkit.jl](https://m3g.github.io/MolSimToolkit.jl/v1.26.0/structural_alignment/#Robust-rigid-body-alignment)
+# Deprecation warning: 
+
+## This package was deprecated, in favor of the MDLovoFit interface available in the Robust rigid body alignment section of [MolSimToolkit.jl](https://m3g.github.io/MolSimToolkit.jl/stable/structural_alignment/#Robust-rigid-body-alignment)
+
+
 
 
 # MDLovoFit.jl
